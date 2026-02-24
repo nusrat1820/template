@@ -1,0 +1,15 @@
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: rgb(155, 211, 241);
+}
+
+.test {
+    color: rgb(6, 39, 73);
+    margin: 10px;
+}
